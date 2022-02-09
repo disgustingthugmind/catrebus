@@ -1,0 +1,69 @@
+.daddy {
+    width: 1500px;
+    margin: 0 auto;
+    background-color: beige
+}
+
+.roof1 {
+    height: 60px;
+    width: auto;
+    display: flex;
+}
+
+.roof2 {
+    height: 40px;
+    width: 430px;
+    background-color: mistyrose;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.bigdad {
+    height: 700px;
+    width: auto;
+    display: flex;
+}
+
+.left {
+    height: 700px;
+    width: 600px;
+
+}
+
+.lildad1 {
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 100px;
+    background-color: antiquewhite
+}
+
+.imp {
+    width: 400px;
+    height: 40px;
+}
+
+button {
+    height: 40px;
+    width: 200px;
+    background-color: mistyrose
+}
+.right {
+    height: 700px;
+    width: 900px;
+}
+.lildad2{
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box {
+   height: 200px;
+    width: 200px;
+    background-size: 200px 200px;
+}
